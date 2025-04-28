@@ -38,7 +38,8 @@ java SentimentAnalysis positive_words.txt negative_words.txt data.txt
 ├── 📄 positive_words.txt       # List of positive words
 ├── 📄 negative_words.txt       # List of negative words
 ├── 📄 data.txt                 # File containing text to analyze
-├── 📄 results.txt              # Output file with sentiment classifications
+├── 📄 results_parallel.txt     # Output file with sentiment parallel classifications
+├── 📄 results_sequential.txt     # Output file with sentiment sequential classifications
 └── 📄 README.md                # Project documentation
 ```
 
